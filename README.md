@@ -1,5 +1,5 @@
 # discourse-annotation-finetuning
-Exploring model-assisted discourse annotation
+Exploring model-assisted discourse annotation. Focusing on 'Proposing strategy'
 
 ##
 ZeroShotQwen: Using Qwen3 base model to annotate the utterance  
